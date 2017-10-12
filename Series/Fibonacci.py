@@ -19,10 +19,16 @@
 """
 
 def Fibonacci(Num,Num1 = 0,Num2 = 1):
+	
+	# Series store the final series to be printed
 	Series = []
 	Num3 = 0
+
+	# If Num2 is less than Num2 then swap them
 	if Num2 < Num1:
 		Num1,Num2 = Num2,Num1
+
+	# Appending the series
 	if Num >= 1:
 		Series.append(Num1)
 		if Num >= 2:
@@ -34,6 +40,7 @@ def Fibonacci(Num,Num1 = 0,Num2 = 1):
 				Num2 = Num3
 				Series.append(Num3)
 				Counter+=1
+
 	return Series
 
 if __name__ == '__main__':
