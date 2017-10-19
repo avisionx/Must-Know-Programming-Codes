@@ -1,12 +1,12 @@
 # Geometric.py
-""" Geometric takes the first number a_1, the q and the number of elements Num, and returns a list containing "Num" numbers in the Geometric series.
-	Pre-Conditions - a_1 should be an Number.
-				   - q should be an Number.
+""" Geometric takes the first number firstElem, the ratio and the number of elements Num, and returns a list containing "Num" numbers in the Geometric series.
+	Pre-Conditions - firstElem should be an Number.
+				   - ratio should be an Number.
 				   - Num should be an integer >=1.
 
-	Geometric(a_1=7,q = 9,Num = 5) --> Standard function call
+	Geometric(firstElem=7,ratio = 9,Num = 5) --> Standard function call
 
-	Output --> Num numbers are returned in series starting from a_1 with geometric value q
+	Output --> Num numbers are returned in series starting from firstElem with geometric value ratio
 
 	Example:
 	
@@ -15,8 +15,8 @@
 """
 
 
-def Geometric(a_1, q, Num):
-    return [a_1 * (q ** i) for i in range(Num)]
+def Geometric(firstElem, ratio, Num):
+    return [firstElem * (ratio ** i) for i in range(Num)]
 
 
 if __name__ == '__main__':
