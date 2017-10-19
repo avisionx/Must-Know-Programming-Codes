@@ -3,6 +3,13 @@
 	Pre-Conditions - Num should be an integer.
 				   - Num1 should be greater than Num2 else the starting point is taken as smaller number.
 
+	Fibonacci(Num,Num1 = 0,Num2 = 1) --> Standard function call
+
+	Output --> Num numbers are returned in series starting from Num1 or the smaller of Num1 and Num2
+
+	Example:
+	
+	Fibonacci(0) returns --> []
 	Fibonacci(1) returns --> [0]
 	Fibonacci(2) returns --> [0, 1]
 	Fibonacci(4) returns --> [0, 1, 1, 2]
@@ -10,7 +17,7 @@
 	Fibonacci(5,4,2) returns --> [2, 4, 6, 10, 16]
 
 """
-sad
+
 def Fibonacci(Num,Num1 = 0,Num2 = 1):
 	
 	# Series store the final series to be printed
