@@ -1,0 +1,22 @@
+# Powers.py
+""" Powers takes the number of elements Num, and the power, and returns a list containing "Num" first naturals to the given power.
+	Pre-Conditions - Num should be an integer >=1.
+
+	Cubes(Num = 5,power=6) --> Standard function call
+
+	Output --> Num numbers are returned in series starting from 1^power up until Num^power
+
+	Example:
+	
+	Powers(1,4) returns --> [1]
+	Powers(3,2) returns --> [1,4,9]
+"""
+
+
+def Powers(Num,power):
+    return [i**power for i in range(1,Num)]
+
+
+if __name__ == '__main__':
+    print(Powers(1,4))
+    print(Powers(3,2))
