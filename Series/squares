@@ -1,0 +1,22 @@
++# squares.py
+ +""" Squares takes the number of elements Num, and returns a list containing "Num" first squares.
+ +	Pre-Conditions - Num should be an integer >=1.
+ +
+ +	Squares(10) --> Standard function call
+ +
+ +	Output --> Num first squares (1^2,2^2,...,Num^2)
+ +
+ +	Example:
+ +	
+ +	Squares(1) returns --> [1]
+ +	Squares(3) returns --> [1,4,9]
+ +"""
+ +
+ +
+ +def Squares(Num):
+ +    return [i**2 for i in range(1,Num)]
+ +
+ +
+ +if __name__ == '__main__':
+ +    print(Squares(1))
+ +    print(Squares(3))
