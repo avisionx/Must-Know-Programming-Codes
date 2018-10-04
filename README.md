@@ -1,6 +1,6 @@
 # Must-Know-Codes-Programming
 
-<h2>This repository comprise of some must know programs for beginners.
+<h2>This repository comprise of some basic programs for beginners.
 
 <h3> To contribute to the repo read the README file.
 
