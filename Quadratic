@@ -1,0 +1,64 @@
+//This piece of code explains how to implement the mathematical way to find out the roots of a quadratic equation in a program written in C.
+/*Below is direct formula for finding roots of quadratic equation.
+
+x=(-b +/- sqrt(b^2-4ac))/(2a)
+There are following important cases.
+If b*b < 4*a*c, then roots are complex
+(not real).
+For example roots of x2 + x + 1, roots are
+-0.5 + i1.73205 and -0.5 - i1.73205
+
+If b*b == 4*a*c, then roots are real 
+and both roots are same.
+For example, roots of x2 - 2x + 1 are 1 and 1
+
+If b*b > 4*a*c, then roots are real 
+and different.
+For example, roots of x2 - 7x - 12 are 3 and 4
+Below is the implementation of above approach*/
+
+#include<stdio.h> 
+#include<math.h> 
+#include<stdlib.h> 
+  
+  
+// Prints roots of quadratic equation ax*2 + bx + x 
+void findRoots(int a, int b, int c) 
+{ 
+    // If a is 0, then equation is not quadratic, but 
+    // linear 
+    if (a == 0) 
+    { 
+        printf("Invalid"); 
+        return; 
+    } 
+  
+    int d = b*b - 4*a*c; 
+    double sqrt_val = sqrt(abs(d)); 
+  
+    if (d > 0) 
+    { 
+        printf("Roots are real and different \n"); 
+        printf("%f\n%f",(double)(-b + sqrt_val)/(2*a) 
+            , (double)(-b - sqrt_val)/(2*a)); 
+    } 
+    else if (d == 0) 
+    { 
+        printf("Roots are real and same \n"); 
+        printf("%f",-(double)b / (2*a)); 
+    } 
+    else // d < 0 
+    { 
+        printf("Roots are complex \n"); 
+        printf("%f + i%f\n%f - i%f", -(double)b / (2*a),sqrt_val 
+            ,-(double)b / (2*a), sqrt_val); 
+    } 
+} 
+  
+// Driver code 
+int main() 
+{ 
+    int a = 1, b = -7, c = 12; 
+    findRoots(a, b, c); 
+    return 0; 
+} 
