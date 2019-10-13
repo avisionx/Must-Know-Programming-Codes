@@ -1,8 +1,8 @@
 # Must-Know-Codes-Programming
 
-<h2>This repository comprise of some basic programs for beginners.
+<h4>This repository comprise of some basic programs for beginners.
 
-<h3> To contribute to the repo read the README file.
+<h5> To contribute to the repo read the README file.
 
 * The code file should be uploaded in the corresponding folder.
 * Name of the file should be same as the algorithm's name and first letter should be capital
