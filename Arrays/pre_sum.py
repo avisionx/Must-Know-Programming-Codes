@@ -1,3 +1,4 @@
+# generates pre sum array for a given list
 def getPreSum(arr):
 	preSum = []
 	preSum.append(array[0])
