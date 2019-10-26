@@ -1,3 +1,4 @@
+# appendElement function adds x at end of arr 
 def appendElement(arr, x):
 	arr += [x]
 	return arr
