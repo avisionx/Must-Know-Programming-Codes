@@ -1,4 +1,10 @@
 # generates pre sum array for a given list
+"""
+Usage 
+
+	arr = preSum(inputArr)
+	
+"""
 def getPreSum(arr):
 	preSum = []
 	preSum.append(array[0])
