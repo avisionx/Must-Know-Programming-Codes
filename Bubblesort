@@ -1,0 +1,36 @@
+//This piece of code elaborates the method of bubble sorting of an array in the language C.
+  
+#include <stdio.h>                                                            //header file
+ 
+int main()                                                                    //main function
+{
+  int array[100], n, c, d, swap;                                              //declaration of variables
+ 
+  printf("Enter number of elements\n");                                       //accepting size of array
+  scanf("%d", &n);
+ 
+  printf("Enter %d integers\n", n);                                           //accepting the array elements
+ 
+  for (c = 0; c < n; c++)
+    scanf("%d", &array[c]);                                                   //outer loop
+ 
+  for (c = 0 ; c < n - 1; c++)
+  {
+    for (d = 0 ; d < n - c - 1; d++)
+    {
+      if (array[d] > array[d+1]) /* For decreasing order use < */
+      {
+        swap       = array[d];                                                //Swappint the two elements to get an array of increasing order
+        array[d]   = array[d+1];
+        array[d+1] = swap;
+      }
+    }
+  }
+ 
+  printf("Sorted list in ascending order:\n");
+ 
+  for (c = 0; c < n; c++)                                                    //Displaying the sorted array
+     printf("%d\n", array[c]);
+ 
+  return 0;
+}  
