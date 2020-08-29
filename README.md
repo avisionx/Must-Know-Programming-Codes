@@ -27,7 +27,7 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## Table of Contents 📋
 
 * [About the Project](#about-the-project)
   * [Languages](#languages)
@@ -38,10 +38,10 @@
 * [License](#license)
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 🤷
 This repo is an initiative by the community to have their competitve programming codes saved in a structure manner. Feel free to contribute to the repo and be the part of the awesome community. **Read the [Contributing](#contributing) guidelines to get started.**
 
-### Languages
+### Languages 🌐
 <p>
   <img src="https://cdn.svgporn.com/logos/c.svg" width="80px" /> 
   <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="80px" /> 
@@ -50,21 +50,21 @@ This repo is an initiative by the community to have their competitve programming
 </p>
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started 🚀
 Although you can directly download a single file from github, to get a local copy of the entire repo follow these simple steps.
 
-### Prerequisites
+### Prerequisites 💡
 1. Setup your desired runtime environment for corresponding language
 2. **git** is required to clone the repo
 
-### Cloning
+### Cloning 🎉
 1. Clone the repo
 ```sh
 git clone https://github.com/avisionx/Must-Know-Programming-Codes.git
 ```
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributing 👪
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -73,5 +73,5 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 <!-- LICENSE -->
-## License
+## License 📜
 Distributed under the MIT License. See `LICENSE` for more information.
