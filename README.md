@@ -1,11 +1,75 @@
-# Must-Know-Codes-Programming
+<p align="center">
+  <a href="https://github.com/avisionx/Must-Know-Programming-Codes">
+    <img src="https://user-images.githubusercontent.com/32339251/91636776-d0bb2480-ea20-11ea-95e6-9fa8d91ffb8c.png" alt="" width="80" height="80">
+  </a>
+  <h3 align="center">Must-Know-Programming-Codes</h3>
+  <p align="center">
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/graphs/contributors"><img src="https://img.shields.io/github/contributors/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/network/members"><img src="https://img.shields.io/github/forks/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/stargazers"><img src="https://img.shields.io/github/stars/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/issues"><img src="https://img.shields.io/github/issues/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
+  </p>
+  <p align="center">
+    This repository is a collection of some must-know programs for competitive programming!
+    <br />
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes">View Demo</a>
+    ·
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/issues">Report Issues</a>
+    ·
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/issues">Request Features</a>
+  </p>
+</p>
 
-<h4>This repository comprise of some basic programs for beginners.</h4>
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-<h5> To contribute to the repo read the README file.</h5>
+* [About the Project](#about-the-project)
+  * [Languages](#languages)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Cloning](#cloning)
+* [Contributing](#contributing)
+* [License](#license)
 
-* The code file should be uploaded in the corresponding folder.
-* Name of the file should be same as the algorithm's name and first letter should be capital
-* Code should have enough comments and docstrings to make it readable
-* Variabe name should have meaning and should not be like i=[1,2,3], rather Num_List=[1,2,3]
-* Fix only one issue in one pull request
+<!-- ABOUT THE PROJECT -->
+## About The Project
+This repo is an initiative by the community to have their competitve programming codes saved in a structure manner. Feel free to contribute to the repo and be the part of the awesome community. **Read the [Contributing](#contributing) guidelines to get started.**
+
+### Languages
+<p>
+  <img src="https://cdn.svgporn.com/logos/c.svg" width="80px" /> 
+  <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="80px" /> 
+  <img src="https://cdn.svgporn.com/logos/python.svg" width="80px" /> 
+  <img src="https://cdn.svgporn.com/logos/java.svg" width="80px" /> 
+</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+Although you can directly download a single file from github, to get a local copy of the entire repo follow these simple steps.
+
+### Prerequisites
+1. Setup your desired runtime environment for corresponding language
+2. **git** is required to clone the repo
+
+### Cloning
+1. Clone the repo
+```sh
+git clone https://github.com/avisionx/Must-Know-Programming-Codes.git
+```
+
+<!-- CONTRIBUTING -->
+## Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
