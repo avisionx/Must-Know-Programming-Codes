@@ -28,14 +28,13 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents 📋
-
-* [About the Project 🤷](#about-the-project)
-  * [Languages](#languages)
-* [Getting Started 🚀](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Cloning](#cloning)
-* [Contributing 👪](#contributing)
-* [License 📜](#license)
+* About the Project
+  * Languages
+* Getting Started
+  * Prerequisites
+  * Cloning
+* Contributing
+* License
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project 🤷
