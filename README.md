@@ -17,13 +17,14 @@
     <br />
     <a href="https://github.com/avisionx/Must-Know-Programming-Codes"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
+  <!-- 
     <a href="https://github.com/avisionx/Must-Know-Programming-Codes">View Demo</a>
     ·
     <a href="https://github.com/avisionx/Must-Know-Programming-Codes/issues">Report Issues</a>
     ·
     <a href="https://github.com/avisionx/Must-Know-Programming-Codes/issues">Request Features</a>
-  </p>
+-->
+  </p> 
 </p>
 
 <!-- TABLE OF CONTENTS -->
