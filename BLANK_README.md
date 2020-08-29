@@ -1,18 +1,15 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/avisionx/Must-Know-Programming-Codes">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
   <h3 align="center">Must-Know-Programming-Codes</h3>
-
+  <p align="center">
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/graphs/contributors"><img src="https://img.shields.io/github/contributors/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/network/members"><img src="https://img.shields.io/github/forks/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/stargazers"><img src="https://img.shields.io/github/stars/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/issues"><img src="https://img.shields.io/github/issues/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
+    <a href="https://github.com/avisionx/Must-Know-Programming-Codes/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
+  </p>
   <p align="center">
     This repository is a collection of some must-know programs for competitive programming!
     <br />
@@ -31,129 +28,48 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+  * [Languages](#languages)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
+  * [Cloning](#cloning)
 * [Contributing](#contributing)
 * [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This repo is an initiative by the community to have their competitve programming codes saved in a structure manner. Feel free to contribute to the repo and be the part of the awesome community. **Read the [Contributing](#contributing) guidelines to get started.**
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
+### Languages
+<p>
+  <img src="https://cdn.svgporn.com/logos/c.svg" width="80px" /> 
+  <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="80px" /> 
+  <img src="https://cdn.svgporn.com/logos/python.svg" width="80px" /> 
+  <img src="https://cdn.svgporn.com/logos/java.svg" width="80px" /> 
+</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-To get a local copy up and running follow these simple steps.
+Although you can directly download a single file from github, to get a local copy of the entire repo follow these simple steps.
 
 ### Prerequisites
+1. Setup your desired runtime environment for corresponding language
+2. **git** is required to clone the repo
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
-### Installation
-
+### Cloning
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo_name.git
+git clone https://github.com/avisionx/Must-Know-Programming-Codes.git
 ```
-2. Install NPM packages
-```sh
-npm install
-```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/avisionx/Must-Know-Programming-Codes.svg?style=flat-square
-[contributors-url]: https://github.com/avisionx/Must-Know-Programming-Codes/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/avisionx/Must-Know-Programming-Codes.svg?style=flat-square
-[forks-url]: https://github.com/avisionx/Must-Know-Programming-Codes/network/members
-[stars-shield]: https://img.shields.io/github/stars/avisionx/Must-Know-Programming-Codes.svg?style=flat-square
-[stars-url]: https://github.com/avisionx/Must-Know-Programming-Codes/stargazers
-[issues-shield]: https://img.shields.io/github/issues/avisionx/Must-Know-Programming-Codes.svg?style=flat-square
-[issues-url]: https://github.com/avisionx/Must-Know-Programming-Codes/issues
-[license-shield]: https://img.shields.io/github/license/avisionx/Must-Know-Programming-Codes.svg?style=flat-square
-[license-url]: https://github.com/avisionx/Must-Know-Programming-Codes/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
