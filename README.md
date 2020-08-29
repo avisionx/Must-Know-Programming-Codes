@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/avisionx/Must-Know-Programming-Codes">
-    <img src="https://user-images.githubusercontent.com/32339251/91636776-d0bb2480-ea20-11ea-95e6-9fa8d91ffb8c.png" alt="" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/32339251/91636776-d0bb2480-ea20-11ea-95e6-9fa8d91ffb8c.png" alt="" width="100" height="100">
   </a>
   <h3 align="center">Must-Know-Programming-Codes</h3>
   <p align="center">
