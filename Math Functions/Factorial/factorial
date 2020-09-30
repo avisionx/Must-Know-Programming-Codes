@@ -1,0 +1,20 @@
+//This piece of code explains how to calculate the Factorial of a number in C language.
+/*Factorial of a number is the consecutive multiplication of the natural numbers starting
+from 1 to the given number itself.
+Example :
+Factorial of 5=1*2*3*4*5=120 */
+
+
+#include<stdio.h>                                                                  //Header file 
+int main()                                                                         //Main function
+{
+  int loop=0,number,factorial=1;                                                   //Declaration of the variables
+  printf("\n Please enter the number.");                                            
+  scanf("%d",&number);                                                             //Accepting the number
+  for(loop=1;loop<=number;loop++)
+  {
+    factorial=factorial*loop;                                                      //Calculating the factorial
+  }
+  printf("\n The factorial of the given number %d is=%d",number,factorial):        //Printing the factorial
+  
+ } 
