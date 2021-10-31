@@ -1,3 +1,4 @@
 a = [1, 2, 3]
 
-print(a)
+if __name__ == "__main__":
+  print(a)
