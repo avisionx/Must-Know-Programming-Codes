@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/avisionx/Must-Know-Programming-Codes"><img src="https://img.shields.io/badge/hacktoberfest-2022-ff69b4.svg?style=flat-square" /></a>
   <a href="https://github.com/avisionx/Must-Know-Programming-Codes/graphs/contributors"><img src="https://img.shields.io/github/contributors/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
-  <a href="http://hits.dwyl.io/Naereen/badges"><img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Favisionx%20%2F%20Must-Know-Programming-Codes" /></a>
+  <img src="https://komarev.com/ghpvc/?username=avisionx-Must-Know-Programming-Codes&label=Hits&style=flat-square&color=brightgreen" />
     <a href="https://github.com/avisionx/Must-Know-Programming-Codes/network/members"><img src="https://img.shields.io/github/forks/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
     <a href="https://github.com/avisionx/Must-Know-Programming-Codes/stargazers"><img src="https://img.shields.io/github/stars/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
     <a href="https://github.com/avisionx/Must-Know-Programming-Codes/issues"><img src="https://img.shields.io/github/issues/avisionx/Must-Know-Programming-Codes.svg?style=flat-square" /></a>
